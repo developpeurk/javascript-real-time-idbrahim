@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.clock
+{
+    font-size: 5em;
+    text-align: center;
+    margin: 30px auto;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+span{
+    padding: 30px;
+    background-color: #333333;
+}
